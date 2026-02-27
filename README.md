@@ -1,9 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**alfredoarteta12/alfredoarteta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Name: _Alfredo Arteta Tejera_
 
-Here are some ideas to get you started:
+# Profession:
+## _software developer in progress._
+# working:
+Iam currently working o a project on a python.
+### My hobbies.
+* _Playing video games._
+*  _Traviling ._
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
